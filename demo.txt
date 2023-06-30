@@ -1,3 +1,2 @@
-C:\Users\lenovo\Desktop\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\LocalLow.exe
-C:\Users\lenovo\Desktop\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\LocalLow.jpg
-C:\Users\lenovo\Desktop\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\newfind.jpg
+C:\Users\lenovo\Desktop\github\demo2.py
+C:\Users\lenovo\Desktop\github\git.py
