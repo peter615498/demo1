@@ -1,5 +1,5 @@
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\1451318868ntouromlalnodry--epcr.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\1657114595AmcateirvtiSty.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\2823318777ntouromlalnodry--naod.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\2918063365piupsah.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\3561288849sdhlie.sqlite
+C:\Users\lenovo\Desktop\mystudy.exe
+C:\Users\lenovo\Desktop\mystudy2.exe
+C:\Users\lenovo\Desktop\ppp.py
+C:\Users\lenovo\Desktop\python-3.11.4-amd64.exe
+C:\Users\lenovo\Desktop\runslient - Copy.zip
