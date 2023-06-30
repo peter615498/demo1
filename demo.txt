@@ -1,2 +1,4 @@
-C:\Users\lenovo\Desktop\Untitled.jpg
-C:\Users\lenovo\Desktop\mystudy.exe
+C:\Users\lenovo\Contacts\desktop.ini
+C:\Users\lenovo\Desktop\desktop.ini
+C:\Users\lenovo\Desktop\Desktop.pyproj
+C:\Users\lenovo\Desktop\Firefox Installer.exe
