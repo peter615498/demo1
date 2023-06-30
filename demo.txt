@@ -1,5 +1,1 @@
-C:\Users\lenovo\ntuser.dat.LOG2
-C:\Users\lenovo\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
-C:\Users\lenovo\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
-C:\Users\lenovo\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
-C:\Users\lenovo\ntuser.ini
+C:\Users\lenovo\Desktop\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\newfind.jpg
