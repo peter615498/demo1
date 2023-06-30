@@ -1,6 +1,5 @@
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\1657114595AmcateirvtiSty.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\2823318777ntouromlalnodry--naod.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\2918063365piupsah.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\3561288849sdhlie.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\e6f886px.default-release\storage\permanent\chrome\idb\3870112724rsegmnoittet-es.sqlite
-C:\Users\lenovo\AppData\Roaming\Mozilla\Firefox\Profiles\ns2mfluf.default\times.json
+C:\Users\lenovo\ntuser.dat.LOG2
+C:\Users\lenovo\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+C:\Users\lenovo\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\lenovo\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\lenovo\ntuser.ini
