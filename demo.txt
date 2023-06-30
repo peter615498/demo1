@@ -1,2 +1,2 @@
-C:\Users\lenovo\Desktop\github\demo2.py
-C:\Users\lenovo\Desktop\github\git.py
+C:\Users\zorel\AppData\Local\Microsoft\OneDrive\LogoImages\OneDriveMedTile.scale-200.png
+C:\Users\zorel\AppData\Local\Microsoft\OneDrive\LogoImages\OneDriveMedTile.scale-400.png
