@@ -1,4 +1,4 @@
-C:\Users\lenovo\Contacts\desktop.ini
-C:\Users\lenovo\Desktop\desktop.ini
-C:\Users\lenovo\Desktop\Desktop.pyproj
-C:\Users\lenovo\Desktop\Firefox Installer.exe
+C:\Users\lenovo\Desktop\mystudy2.exe
+C:\Users\lenovo\Desktop\ppp.py
+C:\Users\lenovo\Desktop\python-3.11.4-amd64.exe
+C:\Users\lenovo\Desktop\runslient - Copy.zip
